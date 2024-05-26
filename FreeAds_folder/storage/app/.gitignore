@@ -1,0 +1,5 @@
+*
+/public/*
+!public/adsImages
+!public/adsImages/**
+!.gitignore
